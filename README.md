@@ -1,6 +1,6 @@
 # Simple-Router
 <p>
-    Simple router built from <a href="https://https://www.section.io/engineering-education/how-to-build-a-simple-router-in-javascript/">this tutorial</a>
+    Simple router built from <a href="https://www.section.io/engineering-education/how-to-build-a-simple-router-in-javascript/">this tutorial</a>
 </p>
 
 
