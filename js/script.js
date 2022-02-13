@@ -10,7 +10,7 @@ function home(){
 
     div.innerHTML = '<h1>Home</h1>';
     div.appendChild(link);
-    app_div.appendChild(div);
+    app_div.replaceChildren(div);
 }
 function about(){
     let div = document.createElement('div');
@@ -20,7 +20,7 @@ function about(){
 
     div.innerHTML = '<h1>About</h1>'
     div.appendChild(link);
-    app_div.appendChild(div);
+    app_div.replaceChildren(div);
 }
 function route(path, template){
     if(typeof template == 'function'){
